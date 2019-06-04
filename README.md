@@ -1,4 +1,8 @@
 # INFLUENCE OF TIE STRENGTH ON HOSTILITY IN SOCIAL MEDIA
+
+#### Note that while all data used was publicly available, in order to respect user privacy and Twitter's terms of service, we are unfortunately unable to share publicly the raw data needed to replicate the results in this notebook.
+
+
 ## Problem
 
 In this research, we have studied the influence of the relationship between the conversation participants on both the presence and intensity of hostile comments.
