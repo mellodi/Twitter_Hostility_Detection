@@ -50,7 +50,9 @@ The features extracted from data processing were used to construct a model for d
 Our proposal is adding the relationship to the classifier for better hostility detection. we have a BD-LSTM and an LR classifier. Both are using features below:
 
   • Tweet Context: Exact text or tweet with stopwords removed and emojis replaced
+  
   • Length of Tweet: Size of the tweet in words
+  
   • Relationship Type: The relationship between the sender and the target immediately after the tweet has been posted.
 
 ## Results
